@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Sandra Keku.", "Senior People Operations Specialist.", "HR Specialist.", "Virtual Assistant.", "Data Analyst."],
+      strings: ["Sandra Keku.", "A People Ops Specialist.", "An HR Specialist.", "A Virtual Assistant.", "A Data Analyst."],
       typeSpeed: 100,
       loop: true,
     });
